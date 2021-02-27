@@ -4,4 +4,4 @@ This project is developed using EfficientDetD0. Ready Data was not available. We
 
 You can see the results which show effective object detection and classification.
 
-![alt text](Screenshot (189).png)
+![alt text](https://github.com/zeel1997/Sign-Reading/blob/main/Screenshot%20(189).png)
